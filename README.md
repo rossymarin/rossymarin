@@ -4,7 +4,7 @@ Soy una persona que se caracteriza por su alegria y curiosidad, mismas cualidade
     <img src="https://scontent.fgdl14-1.fna.fbcdn.net/v/t39.30808-6/269653164_2964238467127013_7095123520165556606_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGpHPGDa8quE3GhNqRVzS9HTDT5xImI9otMNPnEiYj2i4b5UX4GkW8VBHnHGMl2GKxMrewbC4XKVbiAVsiWWlOI&_nc_ohc=weKTe0YyLugAX_7jvOm&_nc_zt=23&_nc_ht=scontent.fgdl14-1.fna&oh=00_AT-r2n3ioeVx4MBZ819zpZOHqGCjzoQIle9A73gYloJxWw&oe=62CF49F3" width="250" title="profile">
 </p>
 
-<-- **rossymarin/rossymarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **rossymarin/rossymarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
