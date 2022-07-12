@@ -6,19 +6,7 @@
                 color: green;
                 animation: mymove 2s infinite;
             }
-            div{
-                display: flex; 
-                flex-direction: row;
-            }
-             
-            @keyframes mymove {
-                from {
-                    color: green;
-                }
-                to {
-                    color: blue;
-                }
-            }
+            
             </style>
             <h1>HELLO WORLD!</h1>
             <div>
