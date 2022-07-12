@@ -6,6 +6,10 @@
                 color: green;
                 animation: mymove 2s infinite;
             }
+            div{
+                display: flex; 
+                flex-direction: row;
+            }
 
             @keyframes mymove {
                 from {
